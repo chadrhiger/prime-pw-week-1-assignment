@@ -14,10 +14,13 @@ body {
     background-color: azure; 
 }
 
-.header {
-    padding: 40px
-    text-align center;
+header {
+    text-align: center;
     background: #1657d9;
     color: white;
-    font-size: 20px; 
+    font-size: 44px; 
+}
+
+img {
+    width: 20%
 }
