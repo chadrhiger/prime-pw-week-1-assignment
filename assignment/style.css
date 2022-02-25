@@ -35,8 +35,16 @@ footer {
     font-size: 30px;
 }
 
-p {
-    font-family: Arial, Helvetica, sans-serif; 
+p { 
     font-style: italic;
     color: orange;
+}
+
+img {
+    border: 7px solid;
+    border-color: purple;
+}
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
 }
